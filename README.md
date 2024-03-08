@@ -2,7 +2,7 @@
 <h3 align="center">
     A passionate frontend and backend developer from Bangladesh
 </h3>
-<img src="https://github.com/Github-Sabbir/Github-Sabbir/blob/680ef1920bb3e88d9af22fbf53837e9b3681b3d7/banar.gif" alt="bannar" width="70%">
+<img src="https://github.com/Github-Sabbir/Github-Sabbir/blob/680ef1920bb3e88d9af22fbf53837e9b3681b3d7/banar.gif" alt="bannar" width="40%" style="float: right;>
 - 📫 How to reach me **Whatsapp 01775881137** - 
 </br>
 📄 Know about my experiences [I have completed my diploma in CSE](I have completed my diploma in CSE) - ⚡
