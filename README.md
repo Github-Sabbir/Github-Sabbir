@@ -6,7 +6,6 @@
 - 📫 How to reach me **Whatsapp 01775881137** - 
 </br>
 📄 Know about my experiences [I have completed my diploma in CSE](I have completed my diploma in CSE) - ⚡
-Fun fact **I am funny 😅**
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
