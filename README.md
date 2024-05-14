@@ -1,5 +1,5 @@
 <h2 align="left">Hello folks 👋!</h2>
-<img src="https://i.ibb.co/Mf0qvSf/banner-pc.jpg" alt="stats graph" style="widht:100%"  />
+<img src="https://github.com/Github-Sabbir/Github-Sabbir/blob/5ceff04863e5741defb486486ce61bf6a9888bde/bannerBG.png" alt="stats graph" style="widht:100%"  />
 
 
 <h3 align="left">My name is Md Abdul Alim. I'm a web developer.</h3>
