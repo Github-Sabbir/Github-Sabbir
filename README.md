@@ -12,7 +12,8 @@
   - 👨‍💻 About me on [My Portfolio](https://www.abdulalim.000.pe/)
   <!-- - 💬 Ask me about **react, Javascript** -->
   - 🌍 I'm mostly active in **Facebook** , **Whatsapp**
-  - 📫 How to reach me [Facebook](https://www.facebook.com/profile.php?id=100013808594190), [Linkedin](https://www.linkedin.com/in/md-abdul-alim-631b0b242/), [Email](mdabdulalimsabbir000@gmail.com)
+  - 📫 How to reach me [Facebook](https://www.facebook.com/profile.php?id=100013808594190), [Linkedin](https://www.linkedin.com/in/md-abdul-alim-631b0b242/),
+  <!-- [Email](mdabdulalimsabbir000@gmail.com)-->
   <!-- - ⚡ Fun fact **I am a music lover.** -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,7 +39,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="30" alt="supabase logo"  />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  /> -->
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
+<!--   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  /> -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
   <!-- <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="30" alt="gitlab logo"  />
