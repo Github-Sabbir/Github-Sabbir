@@ -46,6 +46,7 @@
   <!-- <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="30" alt="gitlab logo"  />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellij logo"  /> -->
+  <img src="https://img.shields.io/badge/Laravel-F7DF1E?logo=laravel&logoColor=red&style=for-the-badge" height="30" alt="javascript logo"  />
 </div>
 
 ###
