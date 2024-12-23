@@ -8,7 +8,7 @@
 ###
   - 🔭 I’m currently working on **HTML, CSS, BOOTSTRAP,**
   -  🧑🏻‍💻 I’m currently learning **JAVASCRIPT, PHP, LARAVEL**
-  - 👨‍💻 About me on [My Portfolio](https://www.abdulalim.000.pe/)
+  - 👨‍💻 About me on [My Portfolio](https://abdulalim.freesite.online/)
   - 🌍 I'm mostly active in **Facebook** , **Whatsapp**
   - 📫 How to reach me [Facebook](https://www.facebook.com/profile.php?id=100013808594190), [Linkedin](https://www.linkedin.com/in/md-abdul-alim-631b0b242/),
 <h3 align="left">Languages and Tools:</h3>
